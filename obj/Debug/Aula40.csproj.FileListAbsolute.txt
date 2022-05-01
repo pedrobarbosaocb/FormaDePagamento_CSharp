@@ -1,0 +1,11 @@
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\bin\Debug\Aula40.exe.config
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\bin\Debug\Aula40.exe
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\bin\Debug\Aula40.pdb
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.csproj.AssemblyReference.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.csproj.SuggestedBindingRedirects.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.Form1.resources
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.Properties.Resources.resources
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.csproj.GenerateResource.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.csproj.CoreCompileInputs.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.exe
+E:\Cast\AvaliacaoTecnica\WF-2\Aula40\obj\Debug\Aula40.pdb
